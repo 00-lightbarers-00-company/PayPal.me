@@ -1,0 +1,9 @@
+Reporting-MTA: dns;MAIL-P02V.DOMAIN.SCC-CSC.GC.CA
+Received-From-MTA: dns;edge-z01b.hqdc.scc-csc.ca
+Arrival-Date: Tue, 13 Sep 2022 19:21:10 +0000
+
+Final-Recipient: rfc822;registrygreffe@scc-csc.ca
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+
